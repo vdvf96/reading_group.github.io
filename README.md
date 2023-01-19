@@ -14,7 +14,7 @@ Here there is a list of the papers we plan to discuss:
 Deep learning
 
 - Minimizing Worst-Case Violations of Neural Networks, R. Nellikkath et. al. , https://arxiv.org/pdf/2212.10930.pdf
-- 
+
 Predict and optimize
 
 - Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses, S. Shah et. al. , https://arxiv.org/pdf/2203.16067.pdf
