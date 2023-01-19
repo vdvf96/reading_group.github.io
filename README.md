@@ -9,3 +9,4 @@ My research group, the (https://github.com/AIPOpt-Lab-SU/), has a weekly reading
 - Minimizing Worst-Case Violations of Neural Networks, R. Nellikkath et. al.
 - Decision-Focused Learning without Decision-Making: Learning Locally Optimized Decision Losses, S. Shah et. al.
 - Comparison and Evaluation of Methods for a Predict+Optimize Problem in Renewable Energy, C. Bergmeir et. al.
+- Multi-Task Predict-then-Optimize, B. Tang et. al.
