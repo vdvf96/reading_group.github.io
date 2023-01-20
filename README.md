@@ -7,7 +7,7 @@ My research group, the (https://github.com/AIPOpt-Lab-SU/), has a weekly reading
 
 Our researches focus on optimization, the integration of optimization and machine learning, differential privacy, fairness, and much more!
 
-We'd like other students and professors to partecipate! Feel free to share papers and ideas to discuss
+We'd like other students and professors to partecipate! Feel free to join us :)
 
 Here there is a list of the papers we plan to discuss:
 
